@@ -6,7 +6,6 @@ const ComponentName = () => {
       <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
         <div className="flex flex-col items-center">
           <div className="text-center">
-            {/* <p className="text-lg font-medium text-gray-600 font-pj">2,157 people have said how good Rareblocks</p> */}
             <h2 className="mt-4 text-3xl font-bold text-gray-900 sm:text-4xl xl:text-5xl font-pj">
               Our happy clients say about us
             </h2>
@@ -95,7 +94,6 @@ const ComponentName = () => {
                       <p className="text-base font-bold text-gray-900 font-pj">
                         Leslie Alexander
                       </p>
-                      {/* <p className="mt-0.5 text-sm font-pj text-gray-600">Freelance React Developer</p> */}
                     </div>
                   </div>
                 </div>
@@ -166,7 +164,6 @@ const ComponentName = () => {
                       <p className="text-base font-bold text-gray-900 font-pj">
                         Jacob Jones
                       </p>
-                      {/* <p className="mt-0.5 text-sm font-pj text-gray-600">Digital Marketer</p> */}
                     </div>
                   </div>
                 </div>
@@ -238,7 +235,6 @@ const ComponentName = () => {
                       <p className="text-base font-bold text-gray-900 font-pj">
                         Jenny Wilson
                       </p>
-                      {/* <p className="mt-0.5 text-sm font-pj text-gray-600">Graphic Designer</p> */}
                     </div>
                   </div>
                 </div>

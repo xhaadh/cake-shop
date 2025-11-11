@@ -8,7 +8,7 @@ const Hero = () => {
         {/* text section */}
         <div className="flex flex-col justify-center gap-8 text-center md:text-left pt-24 md:p-0 pb-10">
           <h1 className="text-4xl lg:text-6xl font-semibold">
-            Delicious Cake At Your Doorstep
+            Make Every Occasion Unforgettable with Our Cakes
           </h1>
           <p className="">
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dicta
