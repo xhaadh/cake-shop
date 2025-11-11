@@ -5,6 +5,8 @@ import TopList from "./components/TopList/TopList";
 import BgImage from "./assets/2.png";
 import Banner from "./components/Banner/Banner";
 import OurServices from "./components/OurServices/OurServices";
+import Testimonial from "./components/Testimonial/Testimonial";
+import Footer from "./components/Footer/Footer";
 
 const bgStyle = {
   backgroundImage: `url(${BgImage})`,
@@ -21,7 +23,9 @@ const App = () => {
         <Hero />
         <TopList />
         <Banner />
+        <Testimonial/>
         <OurServices />
+        <Footer/>
       </div>
     </div>
   );

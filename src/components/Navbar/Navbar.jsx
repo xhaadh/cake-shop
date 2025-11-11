@@ -9,15 +9,15 @@ const Navbar = () => {
         {/* logo section */}
         <div>
           <p className="text-3xl lg:text-4xl font-semibold">
-            FOOD<span className="text-primary">EAT</span>
+            CAKE<span className="text-primary">SHOP</span>
           </p>
         </div>
         {/* Menu section */}
         <div className="flex justify-center items-center gap-10">
           <ul className="gap-8 hidden sm:flex">
-            <li className="hover:border-b-2 border-primary uppercase">Home</li>
-            <li className="hover:border-b-2 border-primary uppercase">Menu</li>
-            <li className="hover:border-b-2 border-primary uppercase">About</li>
+            <li className="hover:border-b-2 border-primary uppercase cursor-pointer">Home</li>
+            <li className="hover:border-b-2 border-primary uppercase cursor-pointer">Menu</li>
+            <li className="hover:border-b-2 border-primary uppercase cursor-pointer">About</li>
           </ul>
           {/* login section */}
           <div className="flex gap-4 items-center">

@@ -1,7 +1,7 @@
 import React from "react";
-import Image1 from "../../assets/3.png";
-import Image2 from "../../assets/4.png";
-import Image3 from "../../assets/5.png";
+import Image1 from "../../assets/Cake-1.png";
+import Image2 from "../../assets/Cake-2.png";
+import Image3 from "../../assets/Cake-3.png";
 
 const FoodData = [
   {

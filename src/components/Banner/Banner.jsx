@@ -1,5 +1,5 @@
 import React from "react";
-import BannerImg from "../../assets/2.png";
+import BannerImg from "../../assets/CakesGrp.png";
 
 const Banner = () => {
   return (
@@ -12,7 +12,7 @@ const Banner = () => {
           </div>
           {/* text section */}
           <div className="flex flex-col justify-center">
-            <h1 className="text-4xl font-semibold">Food Is Always Good</h1>
+            <h1 className="text-4xl font-semibold">Delight in Every Bite</h1>
             <p className="py-4 font-semibold">
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Temporibus laboriosam vitae accusamus assumenda, nobis perferendis

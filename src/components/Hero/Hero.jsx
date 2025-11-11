@@ -1,5 +1,5 @@
 import React from "react";
-import HeroImg from "../../assets/1.png";
+import HeroImg from "../../assets/HeroCake.png";
 
 const Hero = () => {
   return (
@@ -8,7 +8,7 @@ const Hero = () => {
         {/* text section */}
         <div className="flex flex-col justify-center gap-8 text-center md:text-left pt-24 md:p-0 pb-10">
           <h1 className="text-4xl lg:text-6xl font-semibold">
-            Delicious Food Is Waiting For You
+            Delicious Cake At Your Doorstep
           </h1>
           <p className="">
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dicta
@@ -17,10 +17,10 @@ const Hero = () => {
           </p>
           <div className="flex gap-4 items-center md:justify-start justify-center">
             <button className="primary-btn hover:scale-105 duration-200">
-              Food Menu
+              Oredr Now
             </button>
             <button className="secondary-btn text-black hover:scale-105 duration-200">
-              Book Table
+              Menu
             </button>
           </div>
         </div>
@@ -29,7 +29,7 @@ const Hero = () => {
           <img
             src={HeroImg}
             alt=""
-            className="animate-spin-slow img-shadow w-[400px] mx-auto "
+            className="img-shadow w-[400px] mx-auto "
           />
         </div>
       </div>
