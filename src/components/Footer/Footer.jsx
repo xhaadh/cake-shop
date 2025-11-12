@@ -201,7 +201,7 @@ const ComponentName = () => {
               Get In Touch With US
             </p>
 
-            <form action="#" method="POST" className="mt-6">
+            <div className="mt-6">
               <div>
                 <label htmlFor="email" className="sr-only">
                   Email
@@ -221,7 +221,7 @@ const ComponentName = () => {
               >
                 Contact
               </button>
-            </form>
+            </div>
           </div>
         </div>
 
